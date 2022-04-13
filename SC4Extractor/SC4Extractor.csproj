@@ -71,6 +71,9 @@
     <Compile Include="..\SC4Parser\SC4Parser\Logging\LogLevels.cs">
       <Link>SC4Parser\Logging\LogLevels.cs</Link>
     </Compile>
+    <Compile Include="..\SC4Parser\SC4Parser\SubFiles\NetworkIndex.cs">
+      <Link>SC4Parser\Subfiles\NetworkIndex.cs</Link>
+    </Compile>
     <Compile Include="..\SC4Parser\SC4Parser\SubFiles\BuildingSubFile.cs">
       <Link>SC4Parser\Subfiles\BuildingSubFile.cs</Link>
     </Compile>
